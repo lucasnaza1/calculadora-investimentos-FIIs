@@ -1,2 +1,5 @@
-# estipula-o-de-investimentos
-Um sistema que busca **estipular um investimento** mensal a *curto*, *médio* e a *longo* prazo
+# Sistema de análise de investimentos
+***
+Um sistema que busca **estipular um investimento de capital mensal**  seja ele a *curto*, *médio* ou a *longo* prazo.
+***
+Nesse sistema você consegue colocar o capital pretendido a ser investido todo mês, a quantidade de meses que deseja **mensurar** e total investido após x meses.

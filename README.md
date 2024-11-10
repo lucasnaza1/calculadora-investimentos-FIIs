@@ -7,7 +7,5 @@ Nesse sistema você consegue colocar o capital pretendido a ser investido todo m
 - [x] Criar repositório
 - [x] Criar escopo
 - [x] Implementar a mensurabilidade básica
-- [ ] Incluir a opção de escolhas de investimentos
-- [ ] Implementando formas que utilizam métricas (em média)
-- [ ] Sistema completo
-  
+- [x] Crescimento exponencial
+- [x] Mensurabilidade, média, saldo ao final do período
